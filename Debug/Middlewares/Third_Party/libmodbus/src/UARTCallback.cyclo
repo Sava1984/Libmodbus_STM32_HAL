@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/libmodbus/src/UARTCallback.c:57:6:HAL_UART_TxCpltCallback	1
+../Middlewares/Third_Party/libmodbus/src/UARTCallback.c:62:6:HAL_UART_RxCpltCallback	2

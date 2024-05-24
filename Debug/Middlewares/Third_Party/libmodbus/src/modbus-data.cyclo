@@ -1,0 +1,13 @@
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:77:6:modbus_set_bits_from_byte	2
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:88:6:modbus_set_bits_from_bytes	2
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:106:9:modbus_get_byte_from_bits	3
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:125:7:modbus_get_float_abcd	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:143:7:modbus_get_float_dcba	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:161:7:modbus_get_float_badc	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:179:7:modbus_get_float_cdab	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:197:7:modbus_get_float	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:209:6:modbus_set_float_abcd	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:228:6:modbus_set_float_dcba	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:247:6:modbus_set_float_badc	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:266:6:modbus_set_float_cdab	1
+../Middlewares/Third_Party/libmodbus/src/modbus-data.c:285:6:modbus_set_float	1
